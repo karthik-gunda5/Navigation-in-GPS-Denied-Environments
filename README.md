@@ -27,7 +27,5 @@ navigation in GPS-denied environments using IMU and visual odometry.
 - Improved localization accuracy in GPS-denied scenarios
 - Stable trajectory tracking with reduced drift
 
-## Documentation
- [Project Presentation](## Documentation
-📄 [Project Presentation](docs/Navigation_in_GPS_Denied_Environment.pdf)
-)
+ ## Documentation
+📄 [Project Presentation](Navigation_in_GPS_Denied_Environment.pdf)
